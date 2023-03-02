@@ -1,2 +1,2 @@
-# clang
-C Examples Codes
+# About
+Only For Learning C Programming Language
